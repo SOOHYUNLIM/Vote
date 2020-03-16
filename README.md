@@ -1,3 +1,4 @@
 # Vote - 팀 투표 시스템(Servlet, JSP / MyBatis, Oracle)
-![vote1](https://user-images.githubusercontent.com/56705480/76704630-acdb7f00-671d-11ea-94d3-6d7969e26faf.png)
-![vote2](https://user-images.githubusercontent.com/56705480/76704631-af3dd900-671d-11ea-865d-eb020efac960.png)
+![투표1](https://user-images.githubusercontent.com/56705480/76771537-d7dbd680-67e2-11ea-8b9e-eae7a4a86034.png)
+![투표2](https://user-images.githubusercontent.com/56705480/76771545-db6f5d80-67e2-11ea-9451-4b50fad3e5fd.png)
+![투표3](https://user-images.githubusercontent.com/56705480/76771550-dca08a80-67e2-11ea-8f5a-22603cfe9744.png)
